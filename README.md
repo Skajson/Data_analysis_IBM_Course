@@ -1,6 +1,5 @@
 Project Summary: World Happiness Report – IBM Data Analysis Course
-This project is part of the Data Analysis with Python module in the IBM Data Analyst Professional Certificate. It explores global happiness metrics using data from the World Happiness Report, which annually ranks countries based on various social, economic, and health-related factors.
-This one was taken in 2016.
+This project is part of the IBM Data Analyst Professional Certificate. It explores global happiness metrics using data from the World Happiness Report, which annually ranks countries based on various social, economic, and health-related factors. This one was taken in 2016.
 
 🗂️ About the Dataset
 The dataset includes information for countries around the world, featuring the following attributes:
